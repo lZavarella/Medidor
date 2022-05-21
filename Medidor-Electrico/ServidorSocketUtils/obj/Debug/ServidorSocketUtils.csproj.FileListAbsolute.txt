@@ -1,0 +1,6 @@
+C:\Users\viejo\Source\Repos\Medidor-Electrico\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.dll
+C:\Users\viejo\Source\Repos\Medidor-Electrico\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\viejo\Source\Repos\Medidor-Electrico\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csproj.AssemblyReference.cache
+C:\Users\viejo\Source\Repos\Medidor-Electrico\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\viejo\Source\Repos\Medidor-Electrico\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.dll
+C:\Users\viejo\Source\Repos\Medidor-Electrico\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.pdb

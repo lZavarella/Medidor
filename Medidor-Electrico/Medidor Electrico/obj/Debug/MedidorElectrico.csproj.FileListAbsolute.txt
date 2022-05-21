@@ -1,0 +1,13 @@
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\bin\Debug\Medidor Electrico.exe.config
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\bin\Debug\Medidor Electrico.exe
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\bin\Debug\Medidor Electrico.pdb
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\bin\Debug\MedidorModel.dll
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\bin\Debug\ServidorSocketUtils.dll
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\bin\Debug\MedidorModel.pdb
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\obj\Debug\MedidorElectrico.csproj.AssemblyReference.cache
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\obj\Debug\MedidorElectrico.csproj.SuggestedBindingRedirects.cache
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\obj\Debug\MedidorElectrico.csproj.CoreCompileInputs.cache
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\obj\Debug\MedidorElectrico.csproj.CopyComplete
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\obj\Debug\Medidor Electrico.exe
+C:\Users\viejo\Source\Repos\Medidor-Electrico\Medidor Electrico\obj\Debug\Medidor Electrico.pdb

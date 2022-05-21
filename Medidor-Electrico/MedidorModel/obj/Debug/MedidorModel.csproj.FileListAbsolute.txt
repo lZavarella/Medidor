@@ -1,0 +1,6 @@
+C:\Users\viejo\Source\Repos\Medidor-Electrico\MedidorModel\bin\Debug\MedidorModel.dll
+C:\Users\viejo\Source\Repos\Medidor-Electrico\MedidorModel\bin\Debug\MedidorModel.pdb
+C:\Users\viejo\Source\Repos\Medidor-Electrico\MedidorModel\obj\Debug\MedidorModel.csproj.AssemblyReference.cache
+C:\Users\viejo\Source\Repos\Medidor-Electrico\MedidorModel\obj\Debug\MedidorModel.csproj.CoreCompileInputs.cache
+C:\Users\viejo\Source\Repos\Medidor-Electrico\MedidorModel\obj\Debug\MedidorModel.dll
+C:\Users\viejo\Source\Repos\Medidor-Electrico\MedidorModel\obj\Debug\MedidorModel.pdb
